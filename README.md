@@ -163,11 +163,7 @@ PowerBI-Dashboards/
 ---
 
 ## 🔜 Coming Soon
-
-- [ ] HR Analytics Dashboard — Employee attrition, headcount, and performance KPIs
-- [ ] Financial Performance Dashboard — P&L, budget vs. actuals, cash flow tracking
-- [ ] Supply Chain Dashboard — Inventory turnover, supplier performance, order cycle time
-- [ ] Tableau Public versions of selected dashboards
+'''
 
 ---
 
